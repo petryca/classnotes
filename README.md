@@ -1,3 +1,3 @@
 # Hello World
 
-This is on a master branch
+This is a content of the main readme
